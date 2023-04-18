@@ -6,4 +6,4 @@ a=st.number_input('Enter 1st No.')
 b=st.number_input('Enter 2nd No.')
 c=st.number_input('Enter 3rd No.')
 
-st.write(max(a,b,c))
+st.write('Maximum of these three numbers is:',max(a,b,c))
